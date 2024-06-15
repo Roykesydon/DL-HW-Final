@@ -1,0 +1,12 @@
+Model: TransformerPredictionModel
+Best valid result:
+train_loss: 10.455564115239286
+valid_loss: 9.867166081537302
+test_loss: 10.853277993580651
+Learning Rate: 0.0008
+Epochs: 500
+Batch Size: 64
+d_model: 56
+nhead: 8
+num_encoder_layers: 2
+dropout: 0

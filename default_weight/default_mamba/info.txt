@@ -1,0 +1,12 @@
+Model: MambaPredictionModel
+Best valid result:
+train_loss: 6.051187181346297
+valid_loss: 6.183901327674522
+test_loss: 6.411517849674931
+Learning Rate: 0.0008
+Epochs: 500
+Batch Size: 64
+d_model: 16
+d_state: 16
+d_conv: 4
+expand: 2
